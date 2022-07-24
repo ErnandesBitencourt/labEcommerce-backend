@@ -1,6 +1,6 @@
 # labEcommerce-backend
 
-
+Projeto desenvolvido em Typescript.
 
 ### Cadastro de usuário
 
